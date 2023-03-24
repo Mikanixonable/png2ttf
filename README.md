@@ -1,6 +1,6 @@
 # png2ttf  
 build ttf font from png image  
-png画像を二値化してttfフォントを作るプログラム。nymwaさんのtwahiに触発されて作った https://github.com/nymwa/ttf-twahi  
+png画像を二値化してttfフォントを作るwindows向けプログラム。nymwaさんのtwahiに触発されて作った https://github.com/nymwa/ttf-twahi  
   
 ※このプログラムはfontforgeモジュールを使うため  
 fontforge-console.batを開くと出るCUIから使う(後述)  
@@ -32,7 +32,7 @@ uni0041.png のような形式でunicodeコードがファイル名のpng画像�
 #3  
 fontforgeをインストールしたフォルダにあるfontforge-console.batを開けてfontforge python bindingが使えるCUIを開く  
 #4  
-「cd C:/Users/Tarou/Downloads」(png2ttfがあるディレクトリへの移動コマンド)「ffpython png2ttf.py」(実行コマンド)などのように打つ  
+「cd C:/Users/Tarou/Downloads」(png2ttfがあるディレクトリへの移動コマンド)「ffpython png2ttf.py」(実行コマンド)などのように打つって実行 
 #5  
 png画像と同じフォルダにttfフォントファイルが書き出される  
   
