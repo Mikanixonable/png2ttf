@@ -1,5 +1,5 @@
 # png2ttf  
-build ttf font from png image  
+builds ttf font from png image  
 png画像を二値化してttfフォントを作るwindows向けプログラム。nymwaさんのtwahiに触発されて作った https://github.com/nymwa/ttf-twahi  
   
 ※このプログラムはfontforgeモジュールを使うため  
