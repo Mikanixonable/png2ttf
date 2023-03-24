@@ -37,3 +37,7 @@ fontforgeをインストールしたフォルダにあるfontforge-console.bat�
 png画像と同じフォルダにttfフォントファイルが書き出される  
   
 macやlinuxユーザーならCUIを開かなくてもaptコマンドとかで普通にfontforgeモジュールをインストールしてもっと楽にプログラムを実行できると思う  
+  
+#png2COLRttf  
+[png2COLRttf](https://github.com/Mikanixonable/png2COLRttf)  
+姉妹プログラム。カラーフォントを画像から自動生成する
