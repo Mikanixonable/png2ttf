@@ -28,7 +28,7 @@ svg -> ttf 変換用
 #1  
 uni0041.png のような形式でunicodeコードがファイル名のpng画像ファイルを用意してpng2ttf.pyと同じフォルダに置く  
 #2  
-このコードのname = "font1" の所を作りたいフォント名に書き換える  
+このコードのname = "font1" の所を作りたいフォント名に書き換える。書き換えない場合、font1という名前のフォントになる。
 #3  
 fontforgeをインストールしたフォルダにあるfontforge-console.batを開けてfontforge python bindingが使えるCUIを開く  
 #4  
